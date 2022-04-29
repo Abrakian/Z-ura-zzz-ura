@@ -201,6 +201,7 @@
             {
                 "address": "https+local://dns.adguard.com/dns-query",
                 "address": "https+local://adblock.doh.mullvad.net/dns-query",
+                "address": "https+local://1.1.1.1/dns-query",
                 "skipFallback": true
             }
         ],
